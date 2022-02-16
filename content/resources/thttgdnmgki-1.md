@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: Transcript of a video lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/9e00ac81bcdc20a6d5146b64277302ae_tHttGDNmgKI.pdf
+file: /media/courses/21l-011-the-film-experience-fall-2013/9e00ac81bcdc20a6d5146b64277302ae_tHttGDNmgKI.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 9e00ac81-bcdc-20a6-d514-6b64277302ae

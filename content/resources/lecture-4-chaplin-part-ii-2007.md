@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos & Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Chaplin, Part II (2007)'
 uid: d1eb945a-3a33-7e32-3a69-0233f3ecdd53
 video_files:
   archive_url: https://archive.org/download/MIT21L.011F13/MIT21L_011F13_L04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/652ba0248afc57b199c4fa5b16bf8937_0jWfHFBLnv0.vtt
+  video_captions_file: /courses/21l-011-the-film-experience-fall-2013/652ba0248afc57b199c4fa5b16bf8937_0jWfHFBLnv0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0jWfHFBLnv0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/b1cb3a1d7d616e10b176b5c3ac0b0a6d_0jWfHFBLnv0.pdf
+  video_transcript_file: /courses/21l-011-the-film-experience-fall-2013/b1cb3a1d7d616e10b176b5c3ac0b0a6d_0jWfHFBLnv0.pdf
 video_metadata:
   youtube_id: 0jWfHFBLnv0
 ---

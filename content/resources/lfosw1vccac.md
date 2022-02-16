@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: Caption file for a video lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/dbac3710b065e6c88fd0f2c13110e160_LFOsw1Vccac.srt
+file: /media/courses/21l-011-the-film-experience-fall-2013/dbac3710b065e6c88fd0f2c13110e160_LFOsw1Vccac.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: dbac3710-b065-e6c8-8fd0-f2c13110e160

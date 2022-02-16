@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos & Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2:  Keaton (2007)'
 uid: 2b73def0-0863-6584-1048-145215ea79b8
 video_files:
   archive_url: https://archive.org/download/MIT21L.011F13/MIT21L_011F13_L02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/c17c37e53d565dc1a6b6200e3fd084b6_vpJba2qIXjs.vtt
+  video_captions_file: /courses/21l-011-the-film-experience-fall-2013/c17c37e53d565dc1a6b6200e3fd084b6_vpJba2qIXjs.vtt
   video_thumbnail_file: https://img.youtube.com/vi/vpJba2qIXjs/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/b7b26e8e7e9fdc685fbbc51a14d62857_vpJba2qIXjs.pdf
+  video_transcript_file: /courses/21l-011-the-film-experience-fall-2013/b7b26e8e7e9fdc685fbbc51a14d62857_vpJba2qIXjs.pdf
 video_metadata:
   youtube_id: vpJba2qIXjs
 ---

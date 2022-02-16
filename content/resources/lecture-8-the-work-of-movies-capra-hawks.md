@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos & Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: The Work of Movies; Capra & Hawks'
 uid: 96fc8782-4c2e-e10e-e422-2b7220a909cd
 video_files:
   archive_url: https://archive.org/download/MIT21L.011F13/MIT21L_011F13_L08_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/ec5d5dd6df7d525681980afe1883922e_ilM34q8F6rY.vtt
+  video_captions_file: /courses/21l-011-the-film-experience-fall-2013/ec5d5dd6df7d525681980afe1883922e_ilM34q8F6rY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ilM34q8F6rY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/92b84b4bcff3914ebd6f1f3360dcd9ec_ilM34q8F6rY.pdf
+  video_transcript_file: /courses/21l-011-the-film-experience-fall-2013/92b84b4bcff3914ebd6f1f3360dcd9ec_ilM34q8F6rY.pdf
 video_metadata:
   youtube_id: ilM34q8F6rY
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture Videos & Notes
 uid: 4d8da501-0091-ab4e-31fd-9e0497b551ec
 videos:
@@ -39,8 +42,8 @@ This page compiles lecture content from several versions of the class:
 
 Please note there will be some inconsistencies among the materials from the different years, reflecting continued refinement in the course. For instance, the 2006 student notes end with the lecture on DeSica's _Bicycle Thieves_, and do not cover these aspects of the 2013 class as reflected in the videos and lecture outlines:
 
-*   Howard Hawks was added to the 2nd "Hollywood in the 1930s" session (lecture 8).
-*   _Rear Window_ was added to the 2nd Hitchcock session (lecture 10).
+*   Howard Hawks was added to the 2{{< sup "nd" >}} "Hollywood in the 1930s" session (lecture 8).
+*   _Rear Window_ was added to the 2{{< sup "nd" >}} Hitchcock session (lecture 10).
 *   Truffaut's _The 400 Blows_ and Kurosawa's _Rashomon_ are discussed in lectures 21 and 22.
 
 Lecture Outlines (2013)

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 53952b5f-7c26-ef54-2734-918434ba0645
 ---
@@ -11,9 +13,9 @@ Lectures: 2 sessions / week\*\*, 1 hour / session
 
 Recitations: 1 session / week, 1 hour / session
 
-Film Screening: 1 session / week, immediately after the week's 2nd lecture
+Film Screening: 1 session / week, immediately after the week's 2{{< sup "nd" >}} lecture
 
-\*\*Several weeks of this class operate in a "flipped" mode. During these weeks, one lecture will be live, while the 2nd lecture is replaced by students watching Prof. Thorburn's prerecorded lecture videos on OpenCourseWare.
+\*\*Several weeks of this class operate in a "flipped" mode. During these weeks, one lecture will be live, while the 2{{< sup "nd" >}} lecture is replaced by students watching Prof. Thorburn's prerecorded lecture videos on OpenCourseWare.
 
 Primary Goals
 -------------

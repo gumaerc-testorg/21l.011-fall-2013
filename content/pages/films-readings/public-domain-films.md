@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Films & Readings
+parent_type: CourseSection
 parent_uid: e4038599-3b5a-fe25-3acb-5ca71d660a90
 title: Public Domain Films
 uid: 4029992a-5d00-3e2d-067f-3537974d62fa

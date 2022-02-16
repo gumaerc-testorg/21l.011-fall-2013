@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos & Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: The Studio Era'
 uid: 78337be9-3121-938e-80ab-b1b5f09640a0
 video_files:
   archive_url: https://archive.org/download/MIT21L.011F13/MIT21L_011F13_L07_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/3046c52cc5be5353a963eba5132fc5e3_NOT1VZrNkMo.vtt
+  video_captions_file: /courses/21l-011-the-film-experience-fall-2013/3046c52cc5be5353a963eba5132fc5e3_NOT1VZrNkMo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/NOT1VZrNkMo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/21l-011-the-film-experience-fall-2013/30156a5b144262aea1b1da8ae99593d4_NOT1VZrNkMo.pdf
+  video_transcript_file: /courses/21l-011-the-film-experience-fall-2013/30156a5b144262aea1b1da8ae99593d4_NOT1VZrNkMo.pdf
 video_metadata:
   youtube_id: NOT1VZrNkMo
 ---
