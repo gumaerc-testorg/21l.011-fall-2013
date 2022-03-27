@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: Still from The Great Train Robbery
 uid: 178c9553-54ba-57b4-09e8-fb587c9e17c3

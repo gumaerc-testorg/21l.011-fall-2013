@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos & Notes
 parent_type: CourseSection
+parent_uid: 4d8da501-0091-ab4e-31fd-9e0497b551ec
 resourcetype: Document
 title: Fall 2013 Lecture Outlines
 uid: 08e30130-958b-e2b4-eb2a-68042cb4750b

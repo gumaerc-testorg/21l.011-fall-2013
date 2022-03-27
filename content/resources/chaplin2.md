@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: Charlie Chaplin in Kid Auto Races in Venice
 uid: cd28e088-5433-9b89-f322-97a8590f5d6b

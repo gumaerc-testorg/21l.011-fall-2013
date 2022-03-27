@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: Galloping Horse
 uid: 0e990ef5-06c3-5e2f-51ea-a9712c41cdf0

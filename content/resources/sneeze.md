@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: Kinetoscopic Record of a Sneeze
 uid: 55adeaed-9bb7-9d73-7ae9-eace0d9fea33

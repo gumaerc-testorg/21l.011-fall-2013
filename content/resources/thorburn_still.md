@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 17c63899-0828-3a9d-8260-5e0aff0baad2
 resourcetype: Image
 title: Thorburn still
 uid: f6728f2c-d067-8deb-0183-c35671a477bd

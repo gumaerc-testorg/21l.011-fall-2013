@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Summary Perspectives - Film as Art and Artifact'
 uid: a6c42f9d-6bee-9e9e-972c-21cd7e20bee8
 video_files:

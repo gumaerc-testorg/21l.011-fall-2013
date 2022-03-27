@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: American Film in the 1970s, Part I (2007)'
 uid: 8c14ee5f-8cf7-6a7d-1e14-be0f4d0d9f49
 video_files:
