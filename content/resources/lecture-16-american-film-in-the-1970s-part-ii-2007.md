@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos & Notes
@@ -29,3 +30,6 @@ video_metadata:
 **Instructor**: David Thorburn
 
 See the Video Index tab for a chapter outline of this lecture and links to view each chapter.
+
+
+

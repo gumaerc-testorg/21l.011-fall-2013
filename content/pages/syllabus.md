@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section details the primary goals of the course, meeting
+  times, textbook and readings, films and videos, writing requirements, oral expression,
+  exams, grading, and the schedule of lecture topics, required films, and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

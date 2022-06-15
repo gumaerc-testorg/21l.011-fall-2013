@@ -1,5 +1,8 @@
 ---
 content_type: video_gallery
+description: This page provides a complete sequence of lecture videos, combining sessions
+  from the 2007 and 2013 classes. It also gives detailed notes taken during 2006,
+  and short outlines for the 2013 lectures.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -49,12 +52,12 @@ Please note there will be some inconsistencies among the materials from the diff
 Lecture Outlines (2013)
 -----------------------
 
-[Prof. Thorburn's Fall 2013 lecture outlines (PDF)]({{< baseurl >}}/resources/mit21l_011f13_lec_outlines)
+{{% resource_link 08e30130-958b-e2b4-eb2a-68042cb4750b "Prof. Thorburn's Fall 2013 lecture outlines (PDF)" %}}
 
 Lecture Notes by a Student (2006)
 ---------------------------------
 
-[Compiled lecture notes taken by a student in 2006 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit21l_011f13_2006_notes)
+{{% resource_link c7c1a8f0-78c5-5925-6fbe-9ed93ba9e5b8 "Compiled lecture notes taken by a student in 2006 (PDF - 1.1MB)" %}}
 
 Lecture Videos
 --------------

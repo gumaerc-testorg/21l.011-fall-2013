@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Adobe Reader software is required to view this .pdf file.
-file: /media/courses/21l-011-the-film-experience-fall-2013/b7b26e8e7e9fdc685fbbc51a14d62857_vpJba2qIXjs.pdf
+file: /courses/21l-011-the-film-experience-fall-2013/b7b26e8e7e9fdc685fbbc51a14d62857_vpJba2qIXjs.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -9,3 +9,5 @@ resourcetype: Document
 title: 3play pdf file
 uid: b7b26e8e-7e9f-dc68-5fbb-c51a14d62857
 ---
+Adobe Reader software is required to view this .pdf file.
+
