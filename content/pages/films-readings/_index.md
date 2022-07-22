@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the films and readings for each week of the course,
+  information on the primary course text, and a list of additional recommended readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Films & Readings
 uid: e4038599-3b5a-fe25-3acb-5ca71d660a90
 ---
@@ -484,7 +488,7 @@ Summary Perspectives: Film as Art and Artifact
 
 ### Supplemental Readings
 
-Thorburn, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Television as an Aesthetic Medium." (PDF)](http://web.mit.edu/people/thorburn/publications/Thorburn_TelevisionAsAestheticMedium.pdf) _Critical Studies in Mass Communication_ 4, no. 2 (1987): 161–73.
+Thorburn, David. ["Television as an Aesthetic Medium." (PDF)](http://web.mit.edu/people/thorburn/publications/Thorburn_TelevisionAsAestheticMedium.pdf) _Critical Studies in Mass Communication_ 4, no. 2 (1987): 161–73.
 
 ———. "Television Melodrama." In _Television: The Critical View_. Edited by Horace Newcomb. 7th ed. Oxford University Press, 2006. ISBN: 9780195301168.
 

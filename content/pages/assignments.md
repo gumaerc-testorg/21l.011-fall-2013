@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides writing guidelines, instructions, and suggested
+  topics for the three essay assignments of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: cc88a5c0-a907-6592-eb9c-e4329f9efc9d
 ---
 
-[Guidelines for writing papers (PDF)]({{< baseurl >}}/resources/mit21l_011f13_assn_guide)
+{{% resource_link 6e18e071-bf2c-6e59-5d0c-d4739900d525 "Guidelines for writing papers (PDF)" %}}
 
 Each essay should be 5–7 double-spaced pages long, with one-inch margins. Be sure to describe and analyze specific scenes or images to support your argument.
 

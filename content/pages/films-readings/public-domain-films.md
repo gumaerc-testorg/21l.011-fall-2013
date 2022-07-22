@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section presents works by early filmmakers covered in the first
+  two weeks of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Films & Readings
+parent_type: CourseSection
 parent_uid: e4038599-3b5a-fe25-3acb-5ca71d660a90
 title: Public Domain Films
 uid: 4029992a-5d00-3e2d-067f-3537974d62fa
@@ -13,7 +18,7 @@ Very Early Film
 
 ### Galloping Race Horse
 
-![Four film stills of a horse running, showing that its legs are all off the ground in mid-stride.]({{< resource_file 0e990ef5-06c3-5e2f-51ea-a9712c41cdf0 >}})
+{{< resource 0e990ef5-06c3-5e2f-51ea-a9712c41cdf0 >}}
 
 Sequence of a race horse galloping. Photos taken by Eadweard Muybridge, first published in 1887 at Philadelphia.
 
@@ -21,7 +26,7 @@ See the [animation of this sequence](http://commons.wikimedia.org/wiki/Image:Muy
 
 ### Fred Ott's Sneeze
 
-![Sequence of three film stills showing a man progressing through a sneeze.]({{< resource_file 55adeaed-9bb7-9d73-7ae9-eace0d9fea33 >}})
+{{< resource 55adeaed-9bb7-9d73-7ae9-eace0d9fea33 >}}
 
 Three still shots of Fred Ott sneezing in the 1894 motion picture _Kinetoscopic Record of a Sneeze,_ the first copyrighted film in history.
 
@@ -29,7 +34,7 @@ See the [complete film](https://www.loc.gov/item/00694192/), hosted by the Libra
 
 ### The Kiss
 
-![Sequence of three film stills showing a man approaching, embracing and kissing a woman.]({{< resource_file 338904ee-b567-5742-d993-ce5ef63b4970 >}})
+{{< resource 338904ee-b567-5742-d993-ce5ef63b4970 >}}
 
 Three still shots from the early short _May Irwin Kiss_.
 
@@ -37,11 +42,11 @@ See the [complete film](https://www.loc.gov/item/00694131/), hosted by the Libra
 
 ### The Great Train Robbery
 
-![Poster image for The Great Train Robbery, with a stopped steam locomotive and bandits with guns.]({{< resource_file 36868423-9556-0abe-8049-8865aff03460 >}})
+{{< resource 36868423-9556-0abe-8049-8865aff03460 >}}
 
 A contemporary poster advertising _The Great Train Robbery_. (Image courtesy of Wikipedia.)
 
-![Film still of a man pointing a gun at the viewer.]({{< resource_file 178c9553-54ba-57b4-09e8-fb587c9e17c3 >}})
+{{< resource 178c9553-54ba-57b4-09e8-fb587c9e17c3 >}}
 
 A still from The Great Train Robbery. When this part of the film was first shown, viewers used to run from the screen in fear, because the actor aiming a gun at the audience appeared so real to viewers unaccustomed to motion pictures. (Image courtesy of Wikipedia.)
 
@@ -50,7 +55,7 @@ See the [complete film](https://www.loc.gov/item/00694220/), hosted by the Libra
 D. W. Griffith
 --------------
 
-![US 10 cent postage stamp with D.W. Griffith's head in profile and a drawing of a movie camera.]({{< resource_file 4a22d477-73a6-35ce-8f89-2cf5130acd10 >}})
+{{< resource 4a22d477-73a6-35ce-8f89-2cf5130acd10 >}}
 
 A stamp released by the U.S. Post Office to commemorate D. W. Griffith. (Image courtesy of Wikipedia.)
 
@@ -67,11 +72,11 @@ View and download the [complete film](http://archive.org/details/OneWeek), hoste
 
 ### The General
 
-![Film still of Buster Keaton sitting in a steam locomotive, facing the viewer.]({{< resource_file 2edc9924-eb9d-ec34-ccf0-506f387ba13b >}})
+{{< resource 2edc9924-eb9d-ec34-ccf0-506f387ba13b >}}
 
 A still shot showing Buster Keaton's "great stone face" in _The General_. (Image courtesy of Wikipedia.)
 
-![Film still of Buster Keaton standing atop a steam locomotive.]({{< resource_file 34218803-21bf-2557-82aa-9a093f468743 >}})
+{{< resource 34218803-21bf-2557-82aa-9a093f468743 >}}
 
 Another still showing Keaton in _The General_. (Image courtesy of Wikipedia.)
 
@@ -88,15 +93,15 @@ View and download the [complete film](http://archive.org/details/TheBalloonatic)
 Charlie Chaplin
 ---------------
 
-![Portrait photo of Charlie Chaplin wearing his signature bowler hat.]({{< resource_file 54fa5487-0512-89f8-f780-a292adaf133a >}})
+{{< resource 54fa5487-0512-89f8-f780-a292adaf133a >}}
 
 Charlie Chaplin as the Tramp. (Image courtesy of Wikipedia.)
 
-![Film still of Charlie Chaplin, looking very similar to The Tramp character, with a ramp and crowd behind him.]({{< resource_file cd28e088-5433-9b89-f322-97a8590f5d6b >}})
+{{< resource cd28e088-5433-9b89-f322-97a8590f5d6b >}}
 
 Charlie Chaplin in his 1914 film debut _Kid Auto Races in Venice_. (Image courtesy of Wikipedia.)
 
-![Film still of Charlie Chaplin 'Tramp' character sitting in a doorway beside a young child.]({{< resource_file 64bd3e33-aad7-79c2-69e1-58daa291be1a >}})
+{{< resource 64bd3e33-aad7-79c2-69e1-58daa291be1a >}}
 
 Charlie Chaplin in a still from his 1921 film _The Kid_. (Image courtesy of Wikipedia.)
 

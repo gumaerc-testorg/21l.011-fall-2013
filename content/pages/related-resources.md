@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to internet film resources, regional film
+  resources, and related MIT resources.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 19ddc9b9-38e9-b79d-3e9f-222eb142860e
 ---
