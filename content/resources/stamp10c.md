@@ -9,6 +9,7 @@ image_metadata:
   image-alt: US 10 cent postage stamp with D.W. Griffith's head in profile and a drawing
     of a movie camera.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: D. W. Griffith Stamp
 uid: 4a22d477-73a6-35ce-8f89-2cf5130acd10
 ---
 A stamp released by the U.S. Post Office to commemorate D. W. Griffith.
-

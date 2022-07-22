@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Poster image for The Great Train Robbery, with a stopped steam locomotive
     and bandits with guns.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: The Great Train Robbery Poster
 uid: 36868423-9556-0abe-8049-8865aff03460
 ---
 A contemporary poster advertising The Great Train Robbery.
-

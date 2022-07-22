@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Film still of Buster Keaton sitting in a steam locomotive, facing the
     viewer.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Buster Keaton's "great stone face"
 uid: 2edc9924-eb9d-ec34-ccf0-506f387ba13b
 ---
 A still shot showing Buster Keaton's "great stone face" in The General.
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: Sequence of three film stills showing a man progressing through a sneeze.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Kinetoscopic Record of a Sneeze
 uid: 55adeaed-9bb7-9d73-7ae9-eace0d9fea33
 ---
 Three still shots of Fred Ott sneezing in the 1894 motion picture Kinetoscopic Record of a Sneeze: the first copyrighted film in history.
-

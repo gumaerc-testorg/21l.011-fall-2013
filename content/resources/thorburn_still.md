@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -18,4 +19,3 @@ title: Thorburn still
 uid: f6728f2c-d067-8deb-0183-c35671a477bd
 ---
 Image accompanying a set of videos, Professor David Thorburn describes various aspects of how teaches 21L.011 The Film Experience.
-

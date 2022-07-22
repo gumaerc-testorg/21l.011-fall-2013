@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Four film stills of a horse running, showing that its legs are all off
     the ground in mid-stride.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Galloping Horse
 uid: 0e990ef5-06c3-5e2f-51ea-a9712c41cdf0
 ---
 Sequence of a race horse galloping. Photos taken by Eadweard Muybridge, first published in 1887 at Philadelphia.
-

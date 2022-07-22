@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: Film still of Buster Keaton standing atop a steam locomotive.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Buster Keaton in The General
 uid: 34218803-21bf-2557-82aa-9a093f468743
 ---
 Still image showing Buster Keaton in The General.
-

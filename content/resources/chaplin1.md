@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: Portrait photo of Charlie Chaplin wearing his signature bowler hat.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Charlie Chaplin as the Tramp
 uid: 54fa5487-0512-89f8-f780-a292adaf133a
 ---
 Charlie Chaplin as the Tramp.
-

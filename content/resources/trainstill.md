@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: Film still of a man pointing a gun at the viewer.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Still from The Great Train Robbery
 uid: 178c9553-54ba-57b4-09e8-fb587c9e17c3
 ---
 A still from The Great Train Robbery.
-

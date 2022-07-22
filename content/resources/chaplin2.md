@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Film still of Charlie Chaplin, looking very similar to The Tramp character,
     with a ramp and crowd behind him.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Charlie Chaplin in Kid Auto Races in Venice
 uid: cd28e088-5433-9b89-f322-97a8590f5d6b
 ---
 Charlie Chaplin in his 1914 film debut Kid Auto Races in Venice.
-

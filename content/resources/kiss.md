@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Sequence of three film stills showing a man approaching, embracing and
     kissing a woman.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Public Domain Films
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: The Kiss
 uid: 338904ee-b567-5742-d993-ce5ef63b4970
 ---
 Three still shots from the early short The Kiss.
-
