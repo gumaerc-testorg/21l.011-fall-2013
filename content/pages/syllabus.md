@@ -19,7 +19,7 @@ Film Screening: 1 session / week, immediately after the week's 2{{< sup "nd" >}}
 
 \*\*Several weeks of this class operate in a "flipped" mode. During these weeks, one lecture will be live, while the 2{{< sup "nd" >}} lecture is replaced by students watching Prof. Thorburn's prerecorded lecture videos on OpenCourseWare.
 
-Test edit
+Test edit 2
 
 ## Primary Goals
 
