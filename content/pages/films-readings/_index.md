@@ -99,7 +99,7 @@ Keaton (see the Public Domain Films page for links to these and related films)
 {{< tdopen >}}
 
 
-Flipped class week: before this week's screening, watch OCW videos [Lecture 1: Introduction (2007)]({{< baseurl >}}/pages/lecture-videos-notes/lecture-1-introduction-2007) and [Lecture 2: Keaton (2007)]({{< baseurl >}}/pages/lecture-videos-notes/lecture-2-keaton-2007).
+Flipped class week: before this week's screening, watch OCW videos {{% resource_link "7b88de23-6145-b7ad-f0b8-860eea989fd6" "Lecture 1: Introduction (2007)" %}} and {{% resource_link "2b73def0-0863-6584-1048-145215ea79b8" "Lecture 2: Keaton (2007)" %}}.
 
 \[Cook\] pp. 1–41 and 51–85.
 
@@ -141,7 +141,7 @@ See the Public Domain Films page for links to other Chaplin films.
 {{< tdopen >}}
 
 
-Flipped class week: before this week's screening, watch OCW videos [Lecture 3: Chaplin, Part I (2007)]({{< baseurl >}}/pages/lecture-videos-notes/lecture-3-chaplin-part-i-2007) and [Lecture 4: Chaplin, Part II (2007)]({{< baseurl >}}/pages/lecture-videos-notes/lecture-4-chaplin-part-ii-2007).
+Flipped class week: before this week's screening, watch OCW videos {{% resource_link "d09d77eb-6d7c-3fe7-f8ac-1fb5d3c2af52" "Lecture 3: Chaplin, Part I (2007)" %}} and {{% resource_link "d1eb945a-3a33-7e32-3a69-0233f3ecdd53" "Lecture 4: Chaplin, Part II (2007)" %}}.
 
 Agee, James. "Comedy's Greatest Era." In _Agee on Film_. Vol. 1. Mcdowell Obolensky, 1958, pp. 2–19.
 
@@ -337,7 +337,7 @@ _[Five Easy Pieces](https://en.wikipedia.org/wiki/Five_Easy_Pieces)_ clip: Jack 
 {{< tdopen >}}
 
 
-Flipped class week: before this week's screening, watch OCW videos [Lecture 15: American Film in the 1970s, Part I (2007)]({{< baseurl >}}/pages/lecture-videos-notes/lecture-15-american-film-in-the-1970s-part-i-2007) and [Lecture 16: American Film in the 1970s, Part II (2007)]({{< baseurl >}}/pages/lecture-videos-notes/lecture-16-american-film-in-the-1970s-part-ii-2007).
+Flipped class week: before this week's screening, watch OCW videos {{% resource_link "8c14ee5f-8cf7-6a7d-1e14-be0f4d0d9f49" "Lecture 15: American Film in the 1970s, Part I (2007)" %}} and {{% resource_link "eed25d2b-6146-22bb-8092-7ba2b143f49f" "Lecture 16: American Film in the 1970s, Part II (2007)" %}}.
 
 \[Cook\] pp. 845–68.
 
@@ -411,7 +411,7 @@ Italian Neorealism
 {{< tdopen >}}
 
 
-Flipped class week: before this week's screening, watch OCW videos [Lecture 19: Italian Neorealism, Part I (2007)]({{< baseurl >}}/pages/lecture-videos-notes/lecture-19-italian-neorealism-part-i-2007) and [Lecture 20: Italian Neorealism, Part II (2007)]({{< baseurl >}}/pages/lecture-videos-notes/lecture-20-italian-neorealism-part-ii-2007).
+Flipped class week: before this week's screening, watch OCW videos {{% resource_link "410ae6fb-6bf0-1ad4-674e-b53ee1c9e3fe" "Lecture 19: Italian Neorealism, Part I (2007)" %}} and {{% resource_link "82625918-150e-85ac-d715-49fedffb8e8e" "Lecture 20: Italian Neorealism, Part II (2007)" %}}.
 
 \[Cook\] pp. 355–68.
 

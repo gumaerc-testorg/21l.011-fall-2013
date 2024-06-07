@@ -2,6 +2,7 @@
 content_type: resource
 description: A still from The Great Train Robbery.
 file: /courses/21l-011-the-film-experience-fall-2013/178c955354ba57b409e8fb587c9e17c3_trainstill.jpg
+file_size: 74641
 file_type: image/jpeg
 image_metadata:
   caption: Charlie Chaplin in a still from his 1921 film The Kid.
