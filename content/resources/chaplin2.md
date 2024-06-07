@@ -2,6 +2,7 @@
 content_type: resource
 description: Charlie Chaplin in his 1914 film debut Kid Auto Races in Venice.
 file: /courses/21l-011-the-film-experience-fall-2013/cd28e08854339b89f32297a8590f5d6b_chaplin2.jpg
+file_size: 40325
 file_type: image/jpeg
 image_metadata:
   caption: Charlie Chaplin in a still from his 1921 film The Kid.

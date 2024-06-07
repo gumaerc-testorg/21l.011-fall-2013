@@ -2,6 +2,7 @@
 content_type: resource
 description: A contemporary poster advertising The Great Train Robbery.
 file: /courses/21l-011-the-film-experience-fall-2013/3686842395560abe80498865aff03460_trainrob.jpg
+file_size: 48022
 file_type: image/jpeg
 image_metadata:
   caption: Charlie Chaplin in a still from his 1921 film The Kid.

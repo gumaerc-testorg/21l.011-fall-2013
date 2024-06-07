@@ -2,6 +2,7 @@
 content_type: resource
 description: Adobe Reader software is required to view this .pdf file.
 file: /courses/21l-011-the-film-experience-fall-2013/b7b26e8e7e9fdc685fbbc51a14d62857_vpJba2qIXjs.pdf
+file_size: 93815
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
