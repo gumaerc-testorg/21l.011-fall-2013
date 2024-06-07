@@ -2,6 +2,7 @@
 content_type: resource
 description: Caption file for a video lecture.
 file: /courses/21l-011-the-film-experience-fall-2013/7568f658b1ea590aa6e6582bcb5b699f_6B8FySbsUsM.vtt
+file_size: 81640
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
