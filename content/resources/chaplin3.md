@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Charlie Chaplin in a still from his 1921 film The Kid.
-file: /courses/21l-011-the-film-experience-fall-2013/64bd3e33aad779c269e158daa291be1a_chaplin3.jpg
+file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/64bd3e33aad779c269e158daa291be1a_chaplin3.jpg
 file_size: 75937
 file_type: image/jpeg
 image_metadata:
