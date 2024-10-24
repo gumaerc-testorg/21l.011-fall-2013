@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transcript of a video lecture.
-file: /courses/21l-011-the-film-experience-fall-2013/d2ef53476b1b8a3ebacbd0fa570791e0_lbtrbE_kK_Q.pdf
+file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/d2ef53476b1b8a3ebacbd0fa570791e0_lbtrbE_kK_Q.pdf
 file_size: 63961
 file_type: application/pdf
 learning_resource_types: []
