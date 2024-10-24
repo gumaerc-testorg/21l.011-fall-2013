@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-011-the-film-experience-fall-2013/3d8f6fc95899588fbe0d2b1a786c1708_vtViG3o2mgg.vtt
+file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/3d8f6fc95899588fbe0d2b1a786c1708_vtViG3o2mgg.vtt
 file_size: 75340
 file_type: application/x-subrip
 learning_resource_types: []
