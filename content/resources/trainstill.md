@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A still from The Great Train Robbery.
-file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/178c955354ba57b409e8fb587c9e17c3_trainstill.jpg
+file: /courses/21l-011-the-film-experience-fall-2013/178c955354ba57b409e8fb587c9e17c3_trainstill.jpg
 file_size: 74641
 file_type: image/jpeg
 image_metadata:
