@@ -2,7 +2,7 @@
 content_type: resource
 description: Caption file for one of several videos in which Professor David Thorburn
   describes various aspects of how he teaches 21L.011 The Film Experience.
-file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/58e91cd7e172662c7019f0eee6226dac_tg_1R6CDIa0.srt
+file: /courses/21l-011-the-film-experience-fall-2013/58e91cd7e172662c7019f0eee6226dac_tg_1R6CDIa0.srt
 file_size: 7096
 file_type: application/x-subrip
 learning_resource_types: []
