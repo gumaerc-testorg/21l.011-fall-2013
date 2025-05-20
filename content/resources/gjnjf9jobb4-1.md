@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of one of several videos in which Professor David Thorburn
   describes various aspects of how he teaches 21L.011 The Film Experience.
-file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/d4af67070f0dbb23394704b6d337f951_gjnJf9jobb4.pdf
+file: /courses/21l-011-the-film-experience-fall-2013/d4af67070f0dbb23394704b6d337f951_gjnJf9jobb4.pdf
 file_size: 32181
 file_type: application/pdf
 learning_resource_types: []

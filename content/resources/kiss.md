@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Three still shots from the early short The Kiss.
-file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/338904eeb5675742d993ce5ef63b4970_kiss.jpg
+file: /courses/21l-011-the-film-experience-fall-2013/338904eeb5675742d993ce5ef63b4970_kiss.jpg
 file_size: 19521
 file_type: image/jpeg
 image_metadata:

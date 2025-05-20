@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Still image showing Buster Keaton in The General.
-file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/3421880321bf255782aa9a093f468743_buster2.jpg
+file: /courses/21l-011-the-film-experience-fall-2013/3421880321bf255782aa9a093f468743_buster2.jpg
 file_size: 15724
 file_type: image/jpeg
 image_metadata:
