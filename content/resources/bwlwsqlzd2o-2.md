@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Caption file for a video lecture.
-file: /courses/21l-011-the-film-experience-fall-2013/5a7f08364ca05cd39c4be9690c43ab9f_BWLwSqLZd2o.vtt
+file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/5a7f08364ca05cd39c4be9690c43ab9f_BWLwSqLZd2o.vtt
 file_size: 76995
 file_type: application/x-subrip
 learning_resource_types: []

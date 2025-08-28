@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Charlie Chaplin as the Tramp.
-file: /courses/21l-011-the-film-experience-fall-2013/54fa5487051289f8f780a292adaf133a_chaplin1.jpg
+file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/54fa5487051289f8f780a292adaf133a_chaplin1.jpg
 file_size: 18494
 file_type: image/jpeg
 image_metadata:
