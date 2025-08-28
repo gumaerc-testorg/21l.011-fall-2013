@@ -15,14 +15,14 @@ uid: 17c63899-0828-3a9d-8260-5e0aff0baad2
 
 *In the following videos and Chalk Radio podcast episode, Professor David Thorburn describes various aspects of how teaches* 21L.011 The Film Experience.
 
-- {{% resource_link 199ad258-d952-b64a-b5c2-ead6a720c61c "Meet the Educator" %}}
-- {{% resource_link 32a6a91d-d450-29b4-2430-c1d0e0f7dca4 "Approach to Lecturing" %}}
-- {{% resource_link 5e3d2d11-6a15-59ab-b679-c31c6a81c59b "The Film Experience: A Course in Transition" %}}
-- {{% resource_link a68ac0d3-6226-8c35-312a-4631945fc997 "The Video Lecture Conundrum" %}}
-- {{% resource_link 09f9d720-acf5-1eb7-80e4-1237dfdecf90 "Beyond Film: Television & Literature" %}}
-- {{% resource_link d25cf271-877d-ca71-de50-3d6681dccdf1 "Thematic Spines of the Course" %}}
+- {{% resource_link "199ad258-d952-b64a-b5c2-ead6a720c61c" "Meet the Educator" %}}
+- {{% resource_link "32a6a91d-d450-29b4-2430-c1d0e0f7dca4" "Approach to Lecturing" %}}
+- {{% resource_link "5e3d2d11-6a15-59ab-b679-c31c6a81c59b" "The Film Experience: A Course in Transition" %}}
+- {{% resource_link "a68ac0d3-6226-8c35-312a-4631945fc997" "The Video Lecture Conundrum" %}}
+- {{% resource_link "09f9d720-acf5-1eb7-80e4-1237dfdecf90" "Beyond Film: Television & Literature" %}}
+- {{% resource_link "d25cf271-877d-ca71-de50-3d6681dccdf1" "Thematic Spines of the Course" %}}
 
-{{< simplecast aa0ca88f-3c4c-4d33-9897-36e45c43e012 >}}
+{{< resource uuid="03e5eb44-3afd-4315-a2ef-b359b24f391d" >}}
 
 ## Course Overview
 
@@ -99,6 +99,6 @@ Screenings of the required film(s) were held once a week in the evenings. 
 
 ### Out of Class
 
-- {{% resource_link e4038599-3b5a-fe25-3acb-5ca71d660a90 "Readings" %}}
-- {{% resource_link cc88a5c0-a907-6592-eb9c-e4329f9efc9d "Writing requirements" %}}
+- {{% resource_link "e4038599-3b5a-fe25-3acb-5ca71d660a90" "Readings" %}}
+- {{% resource_link "cc88a5c0-a907-6592-eb9c-e4329f9efc9d" "Writing requirements" %}}
 - Preparation for exams

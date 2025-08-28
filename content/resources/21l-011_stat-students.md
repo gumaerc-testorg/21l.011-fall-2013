@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the number of students enrolled in the course.
-file: /courses/21l-011-the-film-experience-fall-2013/bd4db805f1aa13811a0a19a330885c0a_21L-011_stat-students.png
+file: /ol-ocw-studio-app/courses/21l-011-the-film-experience-fall-2013/bd4db805f1aa13811a0a19a330885c0a_21L-011_stat-students.png
 file_size: 3840
 file_type: image/png
 image_metadata:

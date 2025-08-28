@@ -26,6 +26,8 @@
     "website": "21l-011-the-film-experience-fall-2013"
   },
   "course_title": "The Film Experience",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course concentrates on close analysis and criticism of a wide range of films, from the early silent period, classic Hollywood genres including musicals, thrillers and westerns, and European and Japanese art cinema. It explores the work of Griffith, Chaplin, Keaton, Capra, Hawks, Hitchcock, Altman, Renoir, DeSica, and Kurosawa. Through comparative reading of films from different eras and countries, students develop the skills to turn their in-depth analyses into interpretations and explore theoretical issues related to spectatorship.\n",
   "department_numbers": [
     "21L"
@@ -40,9 +42,11 @@
     "Lecture Videos",
     "Lecture Notes",
     "Written Assignments",
-    "Instructor Insights"
+    "Instructor Insights",
+    "Podcasts"
   ],
   "site_uid": "29241b40-344b-4c42-ad74-4d66214d6ebb",
   "site_short_id": "21l.011-fall-2013",
+  "site_url_path": "courses/21l-011-the-film-experience-fall-2013",
   "title": "Course Metadata"
 }
