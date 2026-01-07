@@ -22,7 +22,7 @@ Very Early Film
 
 Sequence of a race horse galloping. Photos taken by Eadweard Muybridge, first published in 1887 at Philadelphia.
 
-See the {{% resource_link "c9c1d72a-44ba-47ab-b218-09312a0c5e57" "animation of this sequence" %}}, courtesy of Wikipedia.
+See the [animation of this sequence](http://commons.wikimedia.org/wiki/Image:Muybridge_race_horse_animated.gif), courtesy of Wikipedia.
 
 ### Fred Ott's Sneeze
 
@@ -30,7 +30,7 @@ See the {{% resource_link "c9c1d72a-44ba-47ab-b218-09312a0c5e57" "animation of t
 
 Three still shots of Fred Ott sneezing in the 1894 motion picture _Kinetoscopic Record of a Sneeze,_ the first copyrighted film in history.
 
-See the {{% resource_link "0cbbc880-d607-4d88-8d97-ca44eb28e9dd" "complete film" %}}, hosted by the Library of Congress.
+See the [complete film](https://www.loc.gov/item/00694192/), hosted by the Library of Congress.
 
 ### The Kiss
 
@@ -38,7 +38,7 @@ See the {{% resource_link "0cbbc880-d607-4d88-8d97-ca44eb28e9dd" "complete film"
 
 Three still shots from the early short _May Irwin Kiss_.
 
-See the {{% resource_link "cac17291-a405-484f-a91f-1f30d69ee99b" "complete film" %}}, hosted by the Library of Congress.
+See the [complete film](https://www.loc.gov/item/00694131/), hosted by the Library of Congress.
 
 ### The Great Train Robbery
 
@@ -50,7 +50,7 @@ A contemporary poster advertising _The Great Train Robbery_. (Image courtesy of 
 
 A still from The Great Train Robbery. When this part of the film was first shown, viewers used to run from the screen in fear, because the actor aiming a gun at the audience appeared so real to viewers unaccustomed to motion pictures. (Image courtesy of Wikipedia.)
 
-See the {{% resource_link "16fb5f92-176e-4d81-8644-7fdb024cae7b" "complete film" %}}, hosted by the Library of Congress.
+See the [complete film](https://www.loc.gov/item/00694220/), hosted by the Library of Congress.
 
 D. W. Griffith
 --------------
@@ -61,14 +61,14 @@ A stamp released by the U.S. Post Office to commemorate D. W. Griffith. (Image c
 
 ### Birth of a Nation
 
-View and download the {{% resource_link "9f0ec6f4-7667-4892-bd22-9a849e10e255" "complete film" %}}, hosted by Internet Archive.
+View and download the [complete film](http://archive.org/details/dw_griffith_birth_of_a_nation), hosted by Internet Archive.
 
 Buster Keaton
 -------------
 
 ### One Week
 
-View and download the {{% resource_link "9dbca9ea-6f52-4f2e-a2c2-03621964efee" "complete film" %}}, hosted by Internet Archive.
+View and download the [complete film](http://archive.org/details/OneWeek), hosted by Internet Archive.
 
 ### The General
 
@@ -80,15 +80,15 @@ A still shot showing Buster Keaton's "great stone face" in _The General_. (Image
 
 Another still showing Keaton in _The General_. (Image courtesy of Wikipedia.)
 
-View and download the {{% resource_link "f44b26e7-7963-438c-90f0-7f9d5b6a0628" "complete film" %}}, hosted by Internet Archive.
+View and download the [complete film](http://archive.org/details/The_General_Buster_Keaton), hosted by Internet Archive.
 
 ### Steamboat Bill Jr.
 
-View and download the {{% resource_link "13fa41dc-df93-4092-ac89-3d6f08b2c141" "complete film" %}}, hosted by Internet Archive.
+View and download the [complete film](http://archive.org/details/SteamboatBillJr), hosted by Internet Archive.
 
 ### The Balloonatic
 
-View and download the {{% resource_link "0d85b3e6-870e-47fc-9bdd-8779931adbc0" "complete film" %}}, hosted by Internet Archive.
+View and download the [complete film](http://archive.org/details/TheBalloonatic), hosted by Internet Archive.
 
 Charlie Chaplin
 ---------------
@@ -107,8 +107,8 @@ Charlie Chaplin in a still from his 1921 film _The Kid_. (Image courtesy of Wiki
 
 ### Selected Chaplin films
 
-_{{% resource_link "45d6f647-eb70-4ac5-a2c3-bc34ee0ae8f3" "Easy Street" %}}_ (1917), hosted on YouTube.
+_[Easy Street](https://www.youtube.com/watch?v=G_D2G66bplk)_ (1917), hosted on YouTube.
 
-{{% resource_link "e4f0751d-8432-4ae0-b105-64abdfcbea4d" "_By the Sea_" %}} (1915), hosted on YouTube.
+[_By the Sea_](https://www.youtube.com/watch?v=NgrNkJilz7g) (1915), hosted on YouTube.
 
-_{{% resource_link "d7dfb74c-fc36-456b-98a3-1bd8aead3d5b" "Work" %}}_ (1915), hosted on YouTube.
+_[Work](https://www.youtube.com/watch?v=V4oJg3pgCw0)_ (1915), hosted on YouTube.
